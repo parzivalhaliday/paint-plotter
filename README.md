@@ -1,1 +1,2 @@
-# paint-plotter
+1920-1080 ekranlarda çalışıyor
+
