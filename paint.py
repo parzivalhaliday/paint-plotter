@@ -5,7 +5,7 @@ import requests
 import io
 import pandas
 
-response = requests.get('https://cdn.discordapp.com/attachments/775687593030713364/814488487348797461/ask.jpg')
+response = requests.get('image link')
 image_byte = io.BytesIO(response.content)
 foto = Image.open(image_byte)
 
